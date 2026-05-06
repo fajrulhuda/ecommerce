@@ -5,6 +5,7 @@ Aplikasi E-Commerce berbasis Laravel yang dirancang untuk mengelola proses penju
 
 Project ini dibuat sebagai implementasi pembelajaran Web Development dengan Laravel Framework.
 
+
 ✨ Fitur Utama
 
 🔐 Autentikasi Login & Register
@@ -24,6 +25,7 @@ Project ini dibuat sebagai implementasi pembelajaran Web Development dengan Lara
 📊 Dashboard Admin
 
 🗃️ Manajemen Database MySQL
+
 
 🛠️ Teknologi yang Digunakan
 
